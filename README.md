@@ -1,6 +1,6 @@
 # Customer-Analytics
-## Analysis and Clustering  of Customers and Predicting Customer Behaviour
-## Using Deep Learning using TensorFlow.
+## Analysis and Clustering  of Customers and Predicting Customer Conversion.
+
 
 For this project, I performed a cluster analysis on customers 
 with K-Means and used Principal Component Analysis for
