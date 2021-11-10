@@ -10,4 +10,6 @@ customer conversion.
 
 <img src='https://github.com/ErnestAsena/Customer-Analytics/blob/main/Images/no_clusters.png'>
 
+<img src='https://github.com/ErnestAsena/Customer-Analytics/blob/main/Images/cheatmap.png'>
+
 <img src='https://github.com/ErnestAsena/Customer-Analytics/blob/main/Images/cluster.png'>
