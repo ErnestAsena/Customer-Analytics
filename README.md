@@ -8,4 +8,6 @@ Dimensionality Reduction.
 In the second notebook, I perform a deep learning neural net to predict
 customer conversion.
 
+<img src='https://github.com/ErnestAsena/Customer-Analytics/blob/main/Images/no_clusters.png'>
+
 <img src='https://github.com/ErnestAsena/Customer-Analytics/blob/main/Images/cluster.png'>
